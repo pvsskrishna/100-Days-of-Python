@@ -1,4 +1,5 @@
-Day 3# Treasure Island Game
+## Day 3
+# Treasure Island Game
 
 Welcome to the **Treasure Island Game!** This is a simple text-based adventure game where you must make choices to find the hidden treasure.
 
@@ -37,10 +38,13 @@ Welcome to the Treasure Island
 Your mission is to find the treasure
 You are at the crossroad. Which way do you want to go? 'Left' or 'Right':
 ```
+## Flow Chart
+![Screenshot 2025-02-06 160311](https://github.com/user-attachments/assets/c9da9762-91d9-4c7d-a89e-79a2a655427c)
+
 
 ## License
 This project is open-source and available under the MIT License.
 
 ## Author
-Your Name (Replace with your actual GitHub username)
+Your Name PVSSKRISHNA
 
