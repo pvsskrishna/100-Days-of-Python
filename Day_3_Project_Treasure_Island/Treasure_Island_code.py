@@ -1,6 +1,8 @@
 from Treasure_art import LOGO
+
 print("Welcome to the Treasure Island")
 print("Your mission is to find the treasure")
+
 choice1 = input("You are at the crossroad. "
                 "Which way do you want to go? 'Left' or 'Right': \n").lower()
 
@@ -20,14 +22,19 @@ if choice1 == 'left':
         if choice3 == 'yellow':
             print('You found the treasure!!!')
             print(LOGO)
+          
         elif choice3 == 'red':
             print('Burned by fire.Game Over.')
+          
         elif choice3 == 'blue':
             print('Eaten by beasts.Game Over.')
+          
         else:
             print("You choose the door that doesn't exist, Game Over")
+          
     else:
         print('Attacked by trout-Game Over.')
+      
 else:
     print("Fall into a hole-Game Over.")
 
