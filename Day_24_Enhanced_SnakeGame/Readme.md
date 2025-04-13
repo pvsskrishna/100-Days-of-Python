@@ -79,7 +79,7 @@ This version builds directly on **Day 21's Snake Game** and introduces **major i
 ## 🔗 GitHub Repo
 
 👉 Check out the full enhanced code here:  
-[https://github.com/pvsskrishna/100-Days-of-Python/tree/main/Day_24_Snake_Game_Enhanced](https://github.com/pvsskrishna/100-Days-of-Python/tree/main/Day_24_Snake_Game_Enhanced)
+https://github.com/pvsskrishna/100-Days-of-Python/tree/main/Day_24_Enhanced_SnakeGame
 
 ---
 
