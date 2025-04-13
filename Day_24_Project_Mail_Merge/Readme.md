@@ -94,7 +94,7 @@ With Python, the same power is in your hands with just a few lines of code! ⚡�
 ## 🔗 GitHub Repo
 
 👉 Check out the full code here:  
-[https://github.com/your-username/100-Days-of-Python/tree/main/Day_24_Project_Mail_Merge](#)
+[https://github.com/pvsskrishna/100-Days-of-Python/tree/main/Day_24_Project_Mail_Merge](#)
 
 ---
 
