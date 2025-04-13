@@ -98,7 +98,5 @@ With Python, the same power is in your hands with just a few lines of code! ⚡�
 
 ---
 
-Let's keep building and automating with Python! 🚀  
-See you on **Day 25**!
 
 #100DaysOfCode #Python #Automation #MailMerge #TextProcessing #Day24 #CodeNewbie
