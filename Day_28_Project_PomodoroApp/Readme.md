@@ -1,7 +1,5 @@
 # Day 28: Pomodoro Timer with Tkinter GUI
 
-Welcome to Day 28 of my #100DaysOfPython Challenge! 🎉  
-In this project, I built a **Pomodoro Timer** using **Tkinter**, a standard GUI library in Python.
 
 ## 🚀 Project Name
 **Pomodoro Timer with GUI**
