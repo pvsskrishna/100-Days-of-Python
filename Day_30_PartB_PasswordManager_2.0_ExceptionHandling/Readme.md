@@ -80,4 +80,4 @@ Unlike flat `.txt` files, **JSON** provides a structured format that scales with
 
 Part B turns the password manager into a **fully functional personal vault**, complete with search capabilities and data persistence. A small but powerful step into real-world app development! 🔐
 
-📌 [GitHub Repository](https://github.com/pvsskrishna/100-Days-of-Python/tree/main/Day_30_PartB_Password_Manager)
+
