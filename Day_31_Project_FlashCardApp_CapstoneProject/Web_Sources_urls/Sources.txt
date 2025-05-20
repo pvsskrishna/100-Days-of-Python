@@ -1,0 +1,9 @@
+Sources:
+Google Translate Language codes: https://cloud.google.com/translate/docs/languages?hl=en
+Wiktionary Frequency lists: https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists
+2018 Frequency Lists from Hermit Dave: https://github.com/hermitdave/FrequencyWords/tree/master/content/2018
+Google Sheets: https://workspace.google.com/products/sheets/
+Open Subtitles: https://www.opensubtitles.org/en/search/subs
+Google Translate for Google Sheets: https://support.google.com/docs/answer/3093331?hl=en-GB
+Google Translate Language Codes: https://cloud.google.com/translate/docs/languages?hl=en
+English Telugu 200 high-frequency words: https://docs.google.com/spreadsheets/d/1nm-6J9G4HNAxYHRuV4J4HgNtKi3N32h-Lu0u93z8egQ/edit?gid=0#gid=0
