@@ -1,3 +1,0 @@
-python_smtplib_documentation = https://docs.python.org/3/library/smtplib.html
-python_datetime_documentation = https://docs.python.org/3.12/library/datetime.html#datetime.datetime
-monday_motivational_quotes = https://www.positivityblog.com/monday-motivation-quotes/
